@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 ### *Languages & Tools*
-Python • SQL • R • Bash • Git • GitHub • Jupyter • VS Code
+Python • SQL • Git • GitHub • Jupyter • VS Code
 
 ### *Machine Learning*
 Scikit-learn • PyTorch • TensorFlow • XGBoost • CatBoost • LightGBM
@@ -31,7 +31,7 @@ Airflow • Spark • Hadoop • AWS S3 • PostgreSQL • MongoDB
 Matplotlib • Seaborn • Plotly • Power BI • Tableau
 
 ### *Deployment*
-Streamlit • Flask • FastAPI • Docker • AWS • Azure
+Streamlit • Flask • AWS 
 
 ---
 
